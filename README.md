@@ -29,6 +29,10 @@ You can find the full code in the file:
 
 ## 📷 Circuit Diagram
 (WhatsApp Image 2025-07-01 at 11.19.42 PM.jpeg)
+## 📷 real photo
+> 🖼️ The following is a real photo of the working circuit captured during testing.
+
+![Circuit](Real Project Photo.jpeg)
 
 ## 🚀 Future Improvements
 - Improve servo responsiveness
